@@ -1,0 +1,22 @@
+.contenedor{
+  background-color: yellow;
+  border: 1px solid black;
+  overflow: hidden;
+}
+li{
+  float:left;
+  height: 40px;
+  margin:20px;
+}
+.loros-1{
+  float:left;
+  margin: 0em 2em;
+  width: 300px;
+  border:1px solid black;
+}
+.loros-2{
+  float:right;
+  margin: 0em 2em;
+  width: 250px;
+  border:1px solid black;
+}
